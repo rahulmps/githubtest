@@ -8,6 +8,7 @@ public class Page3 {
   @Test
   public void f() {
 	  System.out.println("P:rint my name ");
+	  System.out.println("P:rint my name 2 ");
   }
   @BeforeMethod
   public void beforeMethod() {
